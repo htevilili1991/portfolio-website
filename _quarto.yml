@@ -1,0 +1,35 @@
+project:
+  type: website
+  output-dir: docs  # For GitHub Pages compatibility
+
+website:
+  title: "Herman Tevilili"
+  navbar:
+    tools:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/htevilili/
+      - icon: github
+        menu:
+          - text: Source Code
+            href:  https://code.com
+          - text: Report a Bug
+            href:  https://bugs.com
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: projects.qmd
+        text: Projects
+      - href: blog.qmd
+        text: Blog
+      - href: contact.qmd
+        text: Contact
+      - href: resources.qmd
+        text: Resources
+
+format:
+  html:
+    theme: cosmo  # A clean, modern theme
+    css: styles.css  # Optional custom CSS
+    toc: true  # Table of contents for longer pages

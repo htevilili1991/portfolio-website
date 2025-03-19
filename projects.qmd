@@ -1,0 +1,13 @@
+---
+title: "Projects"
+---
+
+## My Statistical Work
+
+### Bayesian A/B Testing for E-commerce
+*Used rstan to model conversion rates, improving decision-making by 15%.*  
+[Full Details](./bayesian-ab.qmd) | [GitHub](https://github.com/yourusername/ab-testing)
+
+### Time Series Forecasting of Stock Prices
+*Built an ARIMA model with R to predict trends.*  
+[GitHub](https://github.com/yourusername/stock-forecasting)

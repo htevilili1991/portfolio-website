@@ -1,0 +1,7 @@
+---
+title: "Welcome to My Portfolio"
+---
+
+## Hi, I’m Herman Tevilili
+
+I’m a statistician with expertise in Bayesian analysis and machine learning. My work focuses on turning data into actionable insights.

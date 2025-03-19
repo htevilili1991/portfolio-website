@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Used rstan to model conversion rates, improving decision-making by 15%.\nFull Details | GitHub\n\n\n\nBuilt an ARIMA model with R to predict trends.\nGitHub"
+  },
+  {
+    "objectID": "projects.html#my-statistical-work",
+    "href": "projects.html#my-statistical-work",
+    "title": "Projects",
+    "section": "",
+    "text": "Used rstan to model conversion rates, improving decision-making by 15%.\nFull Details | GitHub\n\n\n\nBuilt an ARIMA model with R to predict trends.\nGitHub"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Education: M.S. in Statistics from [University].\n\nExperience: Data Analyst at [Company], specializing in predictive modeling.\n\nSkills: Proficient in R, Python, SQL, tidyverse, ggplot2, and Stan.\n\nFun Fact: I love exploring probability puzzles.\n\nDownload my resume."
+  },
+  {
+    "objectID": "about.html#my-background",
+    "href": "about.html#my-background",
+    "title": "About Me",
+    "section": "",
+    "text": "Education: M.S. in Statistics from [University].\n\nExperience: Data Analyst at [Company], specializing in predictive modeling.\n\nSkills: Proficient in R, Python, SQL, tidyverse, ggplot2, and Stan.\n\nFun Fact: I love exploring probability puzzles.\n\nDownload my resume."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to My Portfolio",
+    "section": "",
+    "text": "I’m a statistician with expertise in Bayesian analysis and machine learning. My work focuses on turning data into actionable insights."
+  },
+  {
+    "objectID": "index.html#hi-im-herman-tevilili",
+    "href": "index.html#hi-im-herman-tevilili",
+    "title": "Welcome to My Portfolio",
+    "section": "",
+    "text": "I’m a statistician with expertise in Bayesian analysis and machine learning. My work focuses on turning data into actionable insights."
+  }
+]

@@ -1,0 +1,12 @@
+---
+title: "About Me"
+---
+
+## My Background
+
+- **Education**: M.S. in Statistics from [University].  
+- **Experience**: Data Analyst at [Company], specializing in predictive modeling.  
+- **Skills**: Proficient in R, Python, SQL, tidyverse, ggplot2, and Stan.  
+- **Fun Fact**: I love exploring probability puzzles.
+
+Download my [resume](./resume.pdf).
